@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1589366527 source:c:\users\agusi\desktop\utn\programacion\modelos de parcial\modelo de examen 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ac_getFunciones.h"
+	"funciones_adicionales.h"
+
+1589359246 source:c:\users\agusi\desktop\utn\programacion\modelos de parcial\modelo de examen 1\ac_getfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ac_getFunciones.h"
+	"funciones_adicionales.h"
+
+1589358804 c:\users\agusi\desktop\utn\programacion\modelos de parcial\modelo de examen 1\ac_getfunciones.h
+
+1589359414 c:\users\agusi\desktop\utn\programacion\modelos de parcial\modelo de examen 1\funciones_adicionales.h
+
+1589359344 source:c:\users\agusi\desktop\utn\programacion\modelos de parcial\modelo de examen 1\funciones_adicionales.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ac_getFunciones.h"
+	"funciones_adicionales.h"
+
+1589953987 source:c:\users\agusi\desktop\acoria_primerparcial_lab1\modelo de examen 1\ac_getfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ac_getFunciones.h"
+
+1589926409 c:\users\agusi\desktop\acoria_primerparcial_lab1\modelo de examen 1\ac_getfunciones.h
+
+1589926409 c:\users\agusi\desktop\acoria_primerparcial_lab1\modelo de examen 1\funciones_adicionales.h
+
+1589953987 source:c:\users\agusi\desktop\acoria_primerparcial_lab1\modelo de examen 1\funciones_adicionales.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones_adicionales.h"
+
+1589985576 source:c:\users\agusi\desktop\acoria_primerparcial_lab1\modelo de examen 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ac_getFunciones.h"
+	"menus.h"
+	"moto.h"
+	"trabajo.h"
+	"funciones_adicionales.h"
+	"ac_dataStorage.h"
+
+1589976276 c:\users\agusi\desktop\acoria_primerparcial_lab1\modelo de examen 1\ac_datastorage.h
+
+1589983956 source:c:\users\agusi\desktop\acoria_primerparcial_lab1\modelo de examen 1\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ac_getFunciones.h"
+	"menus.h"
+	"moto.h"
+	"trabajo.h"
+
+1589985576 source:c:\users\agusi\desktop\acoria_primerparcial_lab1\modelo de examen 1\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ac_getFunciones.h"
+	"moto.h"
+	"funciones_adicionales.h"
+
+1589904929 c:\users\agusi\desktop\acoria_primerparcial_lab1\modelo de examen 1\fecha.h
+
+1589983956 c:\users\agusi\desktop\acoria_primerparcial_lab1\modelo de examen 1\menus.h
+
+1589985696 c:\users\agusi\desktop\acoria_primerparcial_lab1\modelo de examen 1\moto.h
+
+1589985696 c:\users\agusi\desktop\acoria_primerparcial_lab1\modelo de examen 1\trabajo.h
+	"fecha.h"
+	"moto.h"
+
+1589985636 source:c:\users\agusi\desktop\acoria_primerparcial_lab1\modelo de examen 1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ac_getFunciones.h"
+	"moto.h"
+	"trabajo.h"
+
